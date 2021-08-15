@@ -22,6 +22,6 @@ Ao rodar, o programa irá pedir para digitar o nome do mundo onde quer pesquisar
 
 ![Hunteds Resultado](assets/huntedsResultado.PNG)
 
-Caso não tenha o go instalado no PC tbm pode rodar os executaveis.
+Caso não tenha o go instalado no PC também pode rodar os executaveis.
 Windows: check-hunteds.exe
 Linux: check-hunteds-linux
