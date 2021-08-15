@@ -5,6 +5,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Brunoquindeler/check-hunteds-on)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Brunoquindeler/check-hunteds-on)
 
-Este projeto foi criado para praticar a linguagem Go, possivelmente vire um projeto de verdade com outras feats e GUI =D
+Este projeto foi criado para praticar a linguagem Go.
+Possivelmente vire um projeto de verdade com outras feats e GUI =D
 
-Para usar basta colocar os nomes de players hunteds no arquivo check_hunteds.go e rodar o programa. Ao rodar o programa irá pedir para digitar o nome do mundo onde quer pesquisar os players, basta digita e dar enter.
+Para usar basta colocar os nomes dos players hunteds no arquivo check_hunteds.go e rodar o programa.
+Ao rodar o programa irá pedir para digitar o nome do mundo onde quer pesquisar os players, basta digitar e dar enter.
