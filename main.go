@@ -1,7 +1,10 @@
+//go:generate goversioninfo -icon=./assets/red-skull-icon.ico -manifest=./resources/goversioninfo.exe.manifest
 package main
 
 import (
 	"fmt"
+
+	"github.com/brunoquindeler/check-hunteds-on/app"
 )
 
 func main() {
@@ -15,5 +18,5 @@ func main() {
 	// Url da API
 	var url = fmt.Sprintf("https://api.tibiadata.com/v2/world/%s.json", server)
 
-	checkPlayers(server, url, timeCheck)
+	app.CheckPlayers(server, url, timeCheck)
 }
