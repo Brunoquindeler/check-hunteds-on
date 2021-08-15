@@ -12,6 +12,8 @@ Possivelmente vire um projeto de verdade com outras feats e GUI.
 ## Requerimentos
 ```bash
 go get -u gopkg.in/yaml.v2
+
+go get github.com/josephspurrier/goversioninfo/cmd/goversioninfo
 ```
 
 Para usar basta colocar os nomes dos players hunteds no arquivo hunteds.yml seguindo sua sintaxe e rodar o programa.
