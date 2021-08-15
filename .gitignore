@@ -10,8 +10,8 @@
 .history/
 
 # Binaries for programs and plugins
-*.exe
-*.exe~
+#*.exe
+#*.exe~
 *.dll
 *.so
 *.dylib
